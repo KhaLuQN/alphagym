@@ -92,4 +92,4 @@ Frontend sẽ chạy tại: `http://localhost:3000`
 **Kha Lu** - Fullstack Developer (PHP, Laravel, Nuxt 3)
 
 ## 📄 Giấy phép
-Dự án này được phát triển cho mục đích thương mại.
+Dự án này được phát triển cho mục đích cá nhân.
